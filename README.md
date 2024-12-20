@@ -30,4 +30,4 @@ This Power BI dashboard and report offer a comprehensive analysis of the activit
 *  Seasonal adjustments and targeted marketing can further optimize resource allocation and program offerings.
 *  Continual monitoring and adapting based on community interests and trends are crucial for maintaining high levels of participation and achieving positive community outcomes.
 
-By utilizing these insights, government officials and program managers can make data-driven decisions to enhance the quality and accessibility of community services, leading to better engagement and satisfaction among residents
+By utilizing these insights, government officials and program managers can make data-driven decisions to enhance the quality and accessibility of community services, leading to better engagement and satisfaction among residents.
